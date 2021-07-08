@@ -7,5 +7,6 @@
     <string-array name="animalsArray">
         <item>@string/dog</item>
         <item>@string/cat</item>
+        <item>@string/pig</item>
     </string-array>
 </resources>
