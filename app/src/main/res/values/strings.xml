@@ -5,6 +5,6 @@
     <string name="dog">Dog</string>
     <string name="pig">Pig</string>
     <string-array name="animalsArray">
-
+        <item>@string/dog</item>
     </string-array>
 </resources>
