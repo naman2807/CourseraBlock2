@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CourseraBlock2</string>
+    <string name="pick_an_animal">Choisisse en animal:</string>
+    <string name="cat">chat</string>
+    <string name="dog">Chien</string>
+    <string name="pig">Cochon</string>
+</resources>
