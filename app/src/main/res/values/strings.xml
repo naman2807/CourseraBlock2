@@ -4,4 +4,7 @@
     <string name="cat">Cat</string>
     <string name="dog">Dog</string>
     <string name="pig">Pig</string>
+    <string-array name="animalsArray">
+
+    </string-array>
 </resources>
