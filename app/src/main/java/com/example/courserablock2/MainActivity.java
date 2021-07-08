@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         ListView animalList = findViewById(R.id.animalListView);
         ArrayAdapter<CharSequence> animalAdapter = ArrayAdapter.createFromResource(this, R.array.animalsArray,
                 android.R.layout.simple_list_item_1);
+        animalList.setAdapter(animalAdapter);
     }
 }
